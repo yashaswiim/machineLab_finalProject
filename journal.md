@@ -16,4 +16,17 @@ If we have time in the end, we may add the following mechanisms:
 - A curtain mechanism to hide the resetting of the scene.
 
 #### Sketches
-  
+
+<div display=inline-flex>
+<img src="./Assets/Images/screen.jpg" width="400">
+<img src="Assets/Images/flying-falcon.jpg" width="400">
+</div>
+
+Screen and Flying Falcon
+
+<div display=inline-flex>
+<img src="./Assets/Images/dipping-falcon.jpg" width="400">
+<img src="Assets/Images/prey-mechanism.jpg" width="400">
+</div>
+
+Diving Falcon and Prey Mechanism
