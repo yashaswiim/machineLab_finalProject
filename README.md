@@ -29,3 +29,19 @@ These mechanism work with servo motors better becuase we only need a movement of
 ### Sensors
 
 We might also need sensors when we are using the DC motors, especially for the diving falcon mechanism. One of our ideas to make this mechanism is to use two DC motors with a fishing thread (because it is almost not visible to the viewers) with the bird attached to the thread. Then, one of the motors winds the thread while the other unwinds it to achieve the motion of the bird. In this mechanism we need the position sensors to know when to reverse the direction of movement of the bird (i.e., when to make the motors wind, unwind or stop).
+
+### Sketches
+
+<div display=inline-flex>
+<img src="./Assets/Images/screen.jpg" width="500">
+<img src="Assets/Images/flying-falcon.jpg" width="500">
+</div>
+
+Screen and Flying Falcon
+
+<div display=inline-flex>
+<img src="./Assets/Images/dipping-falcon.jpg" width="500">
+<img src="Assets/Images/prey-mechanism.jpg" width="500">
+</div>
+
+Diving Falcon and Prey Mechanism
