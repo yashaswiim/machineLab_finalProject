@@ -21,7 +21,7 @@ We would need several motors and sensors to achieve the mentioned mechanisms.
     - for the cam mechanism of hopping preys, 
     - for the diving falcon mechanism
 - Servo motors: 
-    - for the flapping bird - the motor would give a pull to the string at certain time intervals to keep the bird flying, 
+    - for the flapping bird - the motor would give a pull to the string at certain time intervals to keep the bird flying (this is done manually in the video linked above)
     - for the pop-up mechanism
     
 These mechanism work with servo motors better becuase we only need a movement of 180 degrees at max in these mechanisms.
