@@ -56,3 +56,13 @@ Materials Used:
 ### What Did We Learn
 
 The protoype did not work as we intended even though we followed majority of the steps for its recreations from online sources. We believe the problems lied in the material and size of the materials the protoype was created from. The size of the metal hooks compared to the size of the bird it too big and puts the wings too far apart from the body to allow the bobbing motion to take place. The cardboard it too light compared to wood. This prevented proper tension from taking place which in turn didnt allow the fishing line's flexibility to pull the bird up and down. Lastly the protoypes wings are not properly aligned and are not identical. This makes the weight unbalanced and makes the up and down movement not possible.
+
+### Layout Within Box
+
+We also used the box in the workshop to refine the layout for the final project.
+
+<div display=inline-flex>
+<img src="./Assets/Images/box_image.jpg" width="400">
+<img src="Assets/Images/box_image_side.jpg" width="400">
+<img src="Assets/Images/box_image_top.jpg" width="400">
+</div>
