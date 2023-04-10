@@ -30,3 +30,25 @@ Screen and Flying Falcon
 </div>
 
 Diving Falcon and Prey Mechanism
+
+### Week Apr 7
+
+We made our first protoype for the flying falcon mechanism and we did measuring / figuried out how to layout all the mechanism in of our final project that proper fit within the box. 
+
+The protoype was for the flying mechanism for the flacon which would move up and down in fornt of the screen while flapping it wings. The protoype was made from more cheaper materials so that we could make the mechanism faster and see what works and what does not.
+
+Materials Used:
+
+- Fishing Line
+- Cardboard
+- Small Metal Hooks 
+- Wooden Stick
+
+### Images
+
+<div display=inline-flex>
+<img src="./Assets/Images/bird_1.jpg" width="400">
+<img src="Assets/Images/bird_2.jpg" width="400">
+<img src="Assets/Images/bird_3.jpg" width="400">
+<img src="Assets/Images/bird_4.jpg" width="400">
+</div>
