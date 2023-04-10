@@ -73,10 +73,14 @@ We also made a Fusion 360 prototype of the slider mechanism, which we plan to us
 
 The prototype that can be seen in the images below is 10 cm long and 1.5 cm thick. This is a huge decrease in the size of the mechanism. The prototype is currently only simulated in Fusion 360. We plan to laser cut the different parts of this mechanism separately based on the measurements in Fusion 360 and assemble them later to build the mechanism in real.
 
+#### Prototype Images
+
 <div display=inline-flex>
 <img src="./Assets/Images/slider_1.png" width="400">
 <img src="Assets/Images/slider_2.png" width="400">
 <img src="Assets/Images/slider_3.png" width="400">
 <img src="Assets/Images/slider_4.png" width="400">
 </div>
+
+https://user-images.githubusercontent.com/57341178/230861094-e4a45999-0a9e-4592-913d-b28c6797051b.mov
 
