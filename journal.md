@@ -62,7 +62,7 @@ The protoype did not work as we intended even though we followed majority of the
 We also used the box in the workshop to refine the layout for the final project.
 
 <div display=inline-flex>
-<img src="./Assets/Images/box_image.jpg" width="400" height ="400">
+<img src="./Assets/Images/box_image.jpg" width="400">
 <img src="Assets/Images/box_image_side.jpg" width="400">
 <img src="Assets/Images/box_image_top.jpg" width="400">
 </div>
