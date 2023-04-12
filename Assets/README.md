@@ -1,6 +1,6 @@
 ## Link to Assets
 
-Links to the stl files for 3D peinting (Slider Mechanism)
+Links to the stl files for 3D printing (Slider Mechanism)
 
 [Connecting Rod](https://drive.google.com/file/d/13bx2AFQBkW5Mj_QZogoVsFYyxZ1VkfZP/view?usp=sharing)
 
