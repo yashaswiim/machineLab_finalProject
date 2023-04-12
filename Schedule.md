@@ -8,12 +8,12 @@
 |										| <li> Arduino code </li>									|
 | 									| 										| 					|
 | Build the flapping bird mechanism     | <li> Laser cut the bird	</li>						| 2023 Apr 19
-|										| <li> Re-prototype following the YouTube video \\ (focus on precision and center of gravity)</li>		|
-|										| <li> Attach motor and test mechanisms </li></li>				|
+|										| <li> Re-prototype following the YouTube video <br /> (focus on precision and center of gravity)</li>		|
+|										| <li> Attach motor and test mechanism </li>				|
 |										| <li> Arduino code </li>									|
 | 									| 										| 					|
-| Build the mechanism for diving bird	| <li> Figure out the best way to make the bird \\ (laser cut?) and build it	</li>		| 2023 Apr 22
-|										| <li> Test the big servo motor to move the bird \\ (in an arc (90 degrees))	</li>	|
+| Build the mechanism for diving bird	| <li> Figure out the best way to make the bird <br /> (laser cut?) and build it	</li>		| 2023 Apr 22
+|										| <li> Test the big servo motor to move the bird <br /> (in an arc (90 degrees))	</li>	|
 |										| <li> Arduino code </li>									|
 | 									| 										| 					|
 | Build pulley mechanism for backdrop	| <li> Prepare the backdrop		</li>					| 2023 Apr 22
@@ -29,7 +29,7 @@
 |										| <li> Laser cut preys and attach them to the cam	</li>|
 |										| <li> Arduino code </li>									|
 | 									| 										| 					|
-| Integration							| <li> Finalize motor speeds for the mechanisms to \\ get the desired overall effect	</li>	| 2023 May 3
-|										| <li> Figure out the wiring and positions of all \\ mechanisms 		</li>		|
+| Integration							| <li> Finalize motor speeds for the mechanisms to <br /> get the desired overall effect	</li>	| 2023 May 3
+|										| <li> Figure out the wiring and positions of all <br /> mechanisms 		</li>		|
 |										| <li> Combine and complete the codes 	</li>			|
 |										| <li> Final touches									|
