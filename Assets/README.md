@@ -21,6 +21,7 @@ Slider Mechanism
 Slider 
 [v1](https://drive.google.com/file/d/1YNvmU1gFPExyR7pfyBol2Z7WOtIpD-BV/view?usp=sharing)
 [v2](https://drive.google.com/file/d/1YKNKcFK7uJ5mNhkixpMgeLapNUBVKHhj/view?usp=sharing)
+[v3](https://drive.google.com/file/d/1PPGKZ_NR100J6dpC8ZpYiyg5-hKs-mIK/view?usp=sharing)
 
 Links to the files for laser cutting 
 
