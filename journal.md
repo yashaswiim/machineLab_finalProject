@@ -109,7 +109,7 @@ We worked on extending the height of the backdrop for our final project. We meas
 
 <!-- <div display=inline-flex>
 <img src="./Assets/Images/backdrop-extension-1.jpg" width="400">
-<img src="Assets/Images/backdrop-extension-2.jpg" width="400">
+<img src="Assets/Images/backdrop2-extension-2.jpg" width="400">
 </div> -->
 
 https://user-images.githubusercontent.com/57341178/233063391-dadcdf03-b011-4457-b29e-0dbeaaa5a317.mp4
