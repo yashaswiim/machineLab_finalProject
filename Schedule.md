@@ -1,13 +1,11 @@
 | Task 									| Sub-tasks 										| Complete By 					|
 |------									|-----------										|-------------					|
-| Build slider mechanism for the prey   | <li> Build the prototype with the 3D printed parts </li> | 2023 Apr 15
-|										| <li> Build the prototype with the laser cut parts </li>  |
-|										| <li> Make the holder for the servo motors </li>         |
-|										| <li> Finalize size / fix errors based on prototypes </li>|
-|										| <li> Finalize material and build the final version </li>	|
+| Build slider mechanism for the prey   | <li> Build the prototype with the 3D printed parts :heavy_check_mark: </li> | 2023 Apr 22
+|										| <li> Finalize size / fix errors based on prototypes :heavy_check_mark: </li>|
+|										| <li> Finalize material and build the final version :heavy_check_mark: </li>	|
 |										| <li> Arduino code </li>									|
 | 									| 										| 					|
-| Build the flapping bird mechanism     | <li> Laser cut the bird	</li>						| 2023 Apr 19
+| Build the flapping bird mechanism     | <li> Laser cut the bird	</li>						| 2023 Apr 22
 |										| <li> Re-prototype following the YouTube video <br /> (focus on precision and center of gravity)</li>		|
 |										| <li> Attach motor and test mechanism </li>				|
 |										| <li> Arduino code </li>									|
@@ -16,9 +14,9 @@
 |										| <li> Test the big servo motor to move the bird <br /> (in an arc (90 degrees))	</li>	|
 |										| <li> Arduino code </li>									|
 | 									| 										| 					|
-| Build pulley mechanism for backdrop	| <li> Prepare the backdrop		</li>					| 2023 Apr 22
-|										| <li> Extend the height of the shaft	</li>			|
-|										| <li> Test the built mechanisms </li>				|
+| Build pulley mechanism for backdrop	| <li> Prepare the backdrop	</li>					| 2023 Apr 26
+|										| <li> Extend the height of the shaft	:heavy_check_mark: </li>			|
+|										| <li> Test the built mechanisms :heavy_check_mark: </li>				|
 |										| <li> Arduino code </li>									|
 | 									| 										| 					|
 | Build the curtain mechanism			| <li> Build the basic wooden flap curtain mechanism </li>| 2023 Apr 26
