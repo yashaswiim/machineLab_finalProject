@@ -91,8 +91,8 @@ Today we worked on 3D printing the slider mechanism that we designed earlier in 
 
 <div display=inline-flex>
 <img src="./Assets/Images/slider-mechanism-1.jpg" width="400">
-<!--   <img src="./Assets/Images/slider-mechanism-1.jpg" width="400">
-  <img src="./Assets/Images/slider-mechanism-1.jpg" width="400"> -->
+<img src="./Assets/Images/slider-mechanism-2.jpg" width="400">
+<img src="./Assets/Images/slider-mechanism-3.jpg" width="400">
 </div>
 #### Slider Mechanism Video
 
