@@ -87,14 +87,14 @@ https://user-images.githubusercontent.com/57341178/230861094-e4a45999-0a9e-4592-
 ### Apr 14
 Today we worked on 3D printing the slider mechanism that we designed earlier in Fusion 360. The slider mechanism will be used to make the prey pop out from behind the diving falcon to give the appearance of the falcon catching it. We used hot glue to test the mechanism and it works fine as shown below. However, for the final permanent join, we plan to use super glue.
 
-Slider Mechanism Images
+##### Slider Mechanism Images
 
 <div display=inline-flex>
 <img src="./Assets/Images/slider-mechanism-1.jpg" width="400">
 <!--   <img src="./Assets/Images/slider-mechanism-1.jpg" width="400">
   <img src="./Assets/Images/slider-mechanism-1.jpg" width="400"> -->
 </div>
-Slider Mechanism Video
+#### Slider Mechanism Video
 
 
 https://user-images.githubusercontent.com/25387553/233049816-8a23d0f5-b4f5-4235-97d7-9f9ed88008eb.mov
@@ -105,10 +105,12 @@ https://user-images.githubusercontent.com/25387553/233049816-8a23d0f5-b4f5-4235-
 ### Apr 17
 We worked on extending the height of the backdrop for our final project. We measured the box and made an aluminum frame that is 50cm in height. The extended height will provide more space for the pulley mechanism that will be used to move the backdrop. 
 
-Backdrop Extension Images
+#### Backdrop Extension Images
 
 <!-- <div display=inline-flex>
 <img src="./Assets/Images/backdrop-extension-1.jpg" width="400">
 <img src="Assets/Images/backdrop-extension-2.jpg" width="400">
 </div> -->
+
+https://user-images.githubusercontent.com/57341178/233063391-dadcdf03-b011-4457-b29e-0dbeaaa5a317.mp4
 
