@@ -17,6 +17,7 @@ Crank
 Slider Mechanism 
 [v1](https://drive.google.com/file/d/1SCAIMeT9X3_Pk1p736YGaqOeUYXEU4AY/view?usp=sharing)
 [v2](https://drive.google.com/file/d/1Y9yvQDpMPWi1jKwd13V1dqw1Tcp_aF5e/view?usp=sharing)
+[v3](https://drive.google.com/file/d/1DxZqGc1Tu4ZQhSMG4mAm_YcFJdAxPHIa/view?usp=share_link)
 
 Slider 
 [v1](https://drive.google.com/file/d/1YNvmU1gFPExyR7pfyBol2Z7WOtIpD-BV/view?usp=sharing)
