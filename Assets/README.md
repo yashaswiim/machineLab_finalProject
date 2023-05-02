@@ -5,7 +5,7 @@ Links to the stl files for 3D printing (Slider Mechanism)
 Connecting Rod 
 [v1](https://drive.google.com/file/d/13bx2AFQBkW5Mj_QZogoVsFYyxZ1VkfZP/view?usp=sharing)
 [v2](https://drive.google.com/file/d/1-bRH7StdOu1GLQ_QhESZayj91Mdzfe3g/view?usp=sharing)
-[v3](https://drive.google.com/file/d/1mln4DXzE4ZsGdYzDw8tlQM_FbhfwFLPx/view?usp=sharing)
+[v3](https://drive.google.com/file/d/11hN-DYs-KaBlS_36ypGBngZcgytpXnUJ/view?usp=sharing)
 
 Base 
 [v1](https://drive.google.com/file/d/18FmFoLwoQYJARwS0YUmkMX5Ynj6GiOIz/view?usp=sharing)
@@ -14,7 +14,7 @@ Base
 Crank 
 [v1](https://drive.google.com/file/d/1NimW1tdXTv9_-IkQB_BTkUsI5A9mMKzB/view?usp=sharing)
 [v2](https://drive.google.com/file/d/1O_TzMNeDscBHZYQMWl4fjZkWYiF5oAQr/view?usp=sharing)
-[v3](https://drive.google.com/file/d/11hN-DYs-KaBlS_36ypGBngZcgytpXnUJ/view?usp=sharing)
+[v3](https://drive.google.com/file/d/1mln4DXzE4ZsGdYzDw8tlQM_FbhfwFLPx/view?usp=sharing)
 
 Slider Mechanism 
 [v1](https://drive.google.com/file/d/1SCAIMeT9X3_Pk1p736YGaqOeUYXEU4AY/view?usp=sharing)
