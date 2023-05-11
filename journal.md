@@ -115,3 +115,30 @@ We worked on extending the height of the backdrop for our final project. We meas
 
 https://user-images.githubusercontent.com/57341178/233063391-dadcdf03-b011-4457-b29e-0dbeaaa5a317.mp4
 
+### April 21
+
+
+### April 25
+
+### May 1
+
+
+### May 3
+
+https://github.com/yashaswiim/machineLab_finalProject/assets/25387553/02e7bce3-d4d7-485a-ba4b-cc27060b3d95
+
+### May 7
+
+
+
+### May 10 
+
+### May 11 
+
+We worked on writing the code and assembling the project. Additionally, also worked on the asthestics of the project.  
+
+
+### May 12: Final Day 
+
+https://github.com/yashaswiim/machineLab_finalProject/assets/25387553/3025f90d-a511-491b-9160-2d93f0b844da
+
