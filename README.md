@@ -1,4 +1,4 @@
-## Final Project
+## Falconry in the UAE
 
 ### Idea
 
@@ -17,17 +17,24 @@ The mechanisms included in this project idea are as follows:
 We would need several motors and sensors to achieve the mentioned mechanisms. 
 
 - DC motors:
+    - for the flapping bird  
+   
+- Stepper motor
     - for the moving backdrop mechanism, 
-    - for the cam mechanism of hopping preys, 
-    - for the diving falcon mechanism
+
 - Servo motors: 
-    - for the flapping bird - the motor would give a pull to the string at certain time intervals to keep the bird flying (this is done manually in the video linked above)
-    - for the pop-up mechanism
-    
+    - for the prey pop-up mechanism,
+    - for the diving falcon mechanism
 These mechanism work with servo motors better becuase we only need a movement of 180 degrees at max in these mechanisms.
 
 ### Sensors
 
 We might also need sensors when we are using the DC motors, especially for the diving falcon mechanism. One of our ideas to make this mechanism is to use two DC motors with a fishing thread (because it is almost not visible to the viewers) with the bird attached to the thread. Then, one of the motors winds the thread while the other unwinds it to achieve the motion of the bird. In this mechanism we need the position sensors to know when to reverse the direction of movement of the bird (i.e., when to make the motors wind, unwind or stop).
+
+
+### Result 
+
+https://github.com/yashaswiim/machineLab_finalProject/assets/25387553/b2f05065-a2d4-4992-b68a-268972404c8a
+
 
 
