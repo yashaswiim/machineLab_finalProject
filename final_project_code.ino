@@ -9,8 +9,8 @@ const int FLAP_PIN1 = 11;
 const int FLAP_PIN2 = 12;
 const int IN1 = 2;
 const int IN2 = 3;
-const int IN3 = 7;
-const int IN4 = 6;
+const int IN3 = 6;
+const int IN4 = 7;
 
 // defining constants for the diving and prey mechanisms (maximum and minimum angles for the motors)
 const int MAX_DIVE = 90;
@@ -104,19 +104,20 @@ void loop() {
   lastTriggerState = currentTriggerState;
   currentTriggerState = digitalRead(TRIGGER_PIN);
   //take only the first HIGH into consideration
-  if(lastTriggerState == HIGH && currentTriggerState == LOW){
+  if(lastTriggerState == LOW && currentTriggerState == HIGH){
     trigger = 1;
+    lastCheckedTime = millis();
   }
   if(trigger == 1){
     //start background and flapping bird
     oneCycle(3);
-    analogWrite(FLAP_PIN1, 200);
+    analogWrite(FLAP_PIN1, 170);
     digitalWrite(FLAP_PIN2, LOW);
-    lastCheckedTime = millis();
     
     if(diveAngle == MIN_DIVE && !dived){
       //wait 5 seconds before starting diving bird
       if(millis() - lastCheckedTime > 5000){
+        Serial.println("time to dive");
         diveAngle = MAX_DIVE;
         dive_servo.write(diveAngle);
         dived = 1;
@@ -151,7 +152,7 @@ void loop() {
           trigger = 0;
           dived = 0;
           timeToSendSignal = 1;
-          lastCheckedTime = millis()
+          lastCheckedTime = millis();
         }
       }
     }
@@ -161,7 +162,7 @@ void loop() {
     digitalWrite(FLAP_PIN2, LOW);
     //if done with the mechanisms, send HIGH signal for 2 seconds
     if (timeToSendSignal == 1){
-      if(millis() - lastCheckedTime < 2000){
+      if(millis() - lastCheckedTime < 200){
         digitalWrite(DONE_PIN, HIGH);
       }
       else{
