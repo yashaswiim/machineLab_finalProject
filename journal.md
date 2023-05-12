@@ -104,7 +104,7 @@ https://user-images.githubusercontent.com/25387553/233049816-8a23d0f5-b4f5-4235-
 
 We worked on extending the height of the backdrop for our final project. We measured the box and made an aluminum frame that is 50cm in height. The extended height will provide more space for the pulley mechanism that will be used to move the backdrop. 
 
-#### Backdrop Extension Images
+#### Backdrop Extension Images and Video
 
 <div display=inline-flex>
 <img src="./Assets/Images/backdrop-extension-1.jpg" width="400">
@@ -120,19 +120,18 @@ We used 3D printing to make the falcon for our diving mechanism. Once we had the
 #### Prey Mechanism Attached to the Falcon
 
 <div display=inline-flex>
-<img src="./Assets/Images/backdrop-extension-1.jpg" width="400">
-<img src="./Assets/Images/backdrop2-extension-2.jpg" width="400">
+<img src="./Assets/Images/dive-prey-1.jpg" width="400">
+<img src="./Assets/Images/dive-prey-2.jpg" width="400">
 </div>
 
 ### April 29
 
 Today we worked on measuring and cutting wood for our bases (the actual one as well as the false one). We decided to keep a sturdy base at the bottom of the cube and place all our mechanisms on top of it including the arduino, all the motors and the wires. We then decided to use a thinner piece of wood to cover these mechanisms and place it as the false base of the cube. We also decided to add decorations on top of this false base to make it look like the desert so that it goes well with our theme. Once we had our bases, we also finalized where we want each of our mechanisms to go within the cube. 
 
-#### Base Images
+#### Base Image
 
 <div display=inline-flex>
-<img src="./Assets/Images/backdrop-extension-1.jpg" width="400">
-<img src="./Assets/Images/backdrop2-extension-2.jpg" width="400">
+<img src="./Assets/Images/base.jpg" width="400">
 </div>
 
 Initially we wanted to go with the idea of having two DC motors wind and unwind a thread to make the bird dive from a higher position to a lower position in the cube. We then realized that idea of using the DC motors was highly likely to fail because the thread would not be able to carry the weight of the falcon and the prey mechanism attached to it. So, we decided to use a giant servo and attach it to the falcon using a sturdy wooden bar. We were worried about how it would look to have a wooden bar attached to the falcon but upon consulting with our professor and some other peers, we decided that it might as well be good sometimes to let the audience see what is going on behind the mechanism. So, we decided to keep the servo and the wooden bar that attaches the bird to the motor visible to the viewers. After that we also fit our diving bird to the large servo to test how it would look.
@@ -140,8 +139,8 @@ Initially we wanted to go with the idea of having two DC motors wind and unwind 
 #### Servo and Falcon Placement Image
 
 <div display=inline-flex>
-<img src="./Assets/Images/backdrop-extension-1.jpg" width="400">
-<img src="./Assets/Images/backdrop2-extension-2.jpg" width="400">
+<img src="./Assets/Images/servo-position-1.jpg" width="400">
+<img src="./Assets/Images/servo-position-2.jpg" width="400">
 </div>
 
 Along with the looks, we also tested if it would work as we had planned. We wrote the code to make the bird dive when a button is pushed and then pop out and pop in the prey at appropriate times, depending on the position of the diving bird. Below is a video and some images of the mechanism working.
@@ -149,8 +148,7 @@ Along with the looks, we also tested if it would work as we had planned. We wrot
 #### Diving Falcon Mechanism Images and Video
 
 <div display=inline-flex>
-<img src="./Assets/Images/backdrop-extension-1.jpg" width="400">
-<img src="./Assets/Images/backdrop2-extension-2.jpg" width="400">
+<img src="./Assets/Images/dive-prey.jpg" width="400">
 </div>
 
 
@@ -161,8 +159,8 @@ Today we worked on making the flapping falcon mechanism. We followed along a You
 #### Flapping Bird Mechanism Images
 
 <div display=inline-flex>
-<img src="./Assets/Images/backdrop-extension-1.jpg" width="400">
-<img src="./Assets/Images/backdrop2-extension-2.jpg" width="400">
+<img src="./Assets/Images/flapping-bird-1.jpg" width="400">
+<img src="./Assets/Images/flapping-bird-2.jpg" width="400">
 </div>
 
 ### May 3
@@ -172,8 +170,8 @@ We worked on the background mechanism today. We had the background printed from 
 #### Background Mechanism Images and Video
 
 <div display=inline-flex>
-<img src="./Assets/Images/backdrop-extension-1.jpg" width="400">
-<img src="./Assets/Images/backdrop2-extension-2.jpg" width="400">
+<img src="./Assets/Images/bachground.jpg" width="400">
+<img src="./Assets/Images/background-cloth.jpg" width="400">
 </div>
 
 https://github.com/yashaswiim/machineLab_finalProject/assets/25387553/02e7bce3-d4d7-485a-ba4b-cc27060b3d95
@@ -183,13 +181,13 @@ https://github.com/yashaswiim/machineLab_finalProject/assets/25387553/02e7bce3-d
 We reprinted the falcon and the prey mechanism since the last time we tested it, we found the previous version to be a bit smaller to hide a whole prey behind. This is how the mechanism looks now:
 
 <div display=inline-flex>
-<img src="./Assets/Images/backdrop-extension-1.jpg" width="400">
+<img src="./Assets/Images/dive-prey-new.jpg" width="400">
 </div>
 
 We also changed the body of the flapping falcon so that it looks more like a falcon than a seagull. We used one of the falcons we printed earlier for the diving mechanism to replace the body since we printed a larger falcon for the diving mechanism itself.
 
 <div display=inline-flex>
-<img src="./Assets/Images/backdrop-extension-1.jpg" width="400">
+<img src="./Assets/Images/flapping-falcon-new.jpg" width="400">
 </div>
 
 ### May 7 
@@ -205,8 +203,8 @@ We painted our falcons to make them look more real and also laser cut some deser
 #### Painted Falcon Images
 
 <div display=inline-flex>
-<img src="./Assets/Images/backdrop-extension-1.jpg" width="400">
-<img src="./Assets/Images/backdrop2-extension-2.jpg" width="400">
+<img src="./Assets/Images/painted-falcon-1.jpg" width="400">
+<img src="./Assets/Images/painted-falcon-2.jpg" width="400">
 </div>
 
 ### May 10 
