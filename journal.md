@@ -175,7 +175,7 @@ We worked on the background mechanism today. We had the background printed from 
 #### Background Mechanism Images and Video
 
 <div display=inline-flex>
-<img src="./Assets/Images/bachground.webp" width="400">
+<img src="./Assets/Images/bachground.jpeg" width="400">
 <img src="./Assets/Images/background-cloth.jpg" width="400">
 </div>
 
