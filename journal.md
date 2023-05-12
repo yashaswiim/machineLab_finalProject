@@ -85,6 +85,7 @@ The prototype that can be seen in the images below is 10 cm long and 1.5 cm thic
 https://user-images.githubusercontent.com/57341178/230861094-e4a45999-0a9e-4592-913d-b28c6797051b.mov
 
 ### Apr 14
+
 Today we worked on 3D printing the slider mechanism that we designed earlier in Fusion 360. The slider mechanism will be used to make the prey pop out from behind the diving falcon to give the appearance of the falcon catching it. We used hot glue to test the mechanism and it works fine as shown below. However, for the final permanent join, we plan to use super glue.
 
 ##### Slider Mechanism Images
@@ -97,13 +98,10 @@ Today we worked on 3D printing the slider mechanism that we designed earlier in 
 
 #### Slider Mechanism Video
 
-
 https://user-images.githubusercontent.com/25387553/233049816-8a23d0f5-b4f5-4235-97d7-9f9ed88008eb.mov
 
-
-
-
 ### Apr 17
+
 We worked on extending the height of the backdrop for our final project. We measured the box and made an aluminum frame that is 50cm in height. The extended height will provide more space for the pulley mechanism that will be used to move the backdrop. 
 
 #### Backdrop Extension Images
@@ -115,30 +113,112 @@ We worked on extending the height of the backdrop for our final project. We meas
 
 https://user-images.githubusercontent.com/57341178/233063391-dadcdf03-b011-4457-b29e-0dbeaaa5a317.mp4
 
-### April 21
+### April 24
 
+We used 3D printing to make the falcon for our diving mechanism. Once we had the bird printed, we attached it to the prey mechanism that we printed earlier and tested to see if the pop out mechanism works well. We realized that the bird is a bit smaller to hide the the prey properly. We could still see some parts of the mechanism hidden behind and therefore, we decided to print a bigger bird for the final version.
 
-### April 25
+#### Prey Mechanism Attached to the Falcon
+
+<div display=inline-flex>
+<img src="./Assets/Images/backdrop-extension-1.jpg" width="400">
+<img src="./Assets/Images/backdrop2-extension-2.jpg" width="400">
+</div>
+
+### April 29
+
+Today we worked on measuring and cutting wood for our bases (the actual one as well as the false one). We decided to keep a sturdy base at the bottom of the cube and place all our mechanisms on top of it including the arduino, all the motors and the wires. We then decided to use a thinner piece of wood to cover these mechanisms and place it as the false base of the cube. We also decided to add decorations on top of this false base to make it look like the desert so that it goes well with our theme. Once we had our bases, we also finalized where we want each of our mechanisms to go within the cube. 
+
+#### Base Images
+
+<div display=inline-flex>
+<img src="./Assets/Images/backdrop-extension-1.jpg" width="400">
+<img src="./Assets/Images/backdrop2-extension-2.jpg" width="400">
+</div>
+
+Initially we wanted to go with the idea of having two DC motors wind and unwind a thread to make the bird dive from a higher position to a lower position in the cube. We then realized that idea of using the DC motors was highly likely to fail because the thread would not be able to carry the weight of the falcon and the prey mechanism attached to it. So, we decided to use a giant servo and attach it to the falcon using a sturdy wooden bar. We were worried about how it would look to have a wooden bar attached to the falcon but upon consulting with our professor and some other peers, we decided that it might as well be good sometimes to let the audience see what is going on behind the mechanism. So, we decided to keep the servo and the wooden bar that attaches the bird to the motor visible to the viewers. After that we also fit our diving bird to the large servo to test how it would look.
+
+#### Servo and Falcon Placement Image
+
+<div display=inline-flex>
+<img src="./Assets/Images/backdrop-extension-1.jpg" width="400">
+<img src="./Assets/Images/backdrop2-extension-2.jpg" width="400">
+</div>
+
+Along with the looks, we also tested if it would work as we had planned. We wrote the code to make the bird dive when a button is pushed and then pop out and pop in the prey at appropriate times, depending on the position of the diving bird. Below is a video and some images of the mechanism working.
+
+#### Diving Falcon Mechanism Images and Video
+
+<div display=inline-flex>
+<img src="./Assets/Images/backdrop-extension-1.jpg" width="400">
+<img src="./Assets/Images/backdrop2-extension-2.jpg" width="400">
+</div>
+
 
 ### May 1
 
+Today we worked on making the flapping falcon mechanism. We followed along a YouTube video to make the bird and after a lot of struggle with cutting it accurately, finding its center of gravity and attaching all its parts such that it flaps properly, we got it working. We finally used laser cutter to cut the parts of the bird. It is a design we found online and is of a seagull. We plan to paint and decorate it to make it look like a falcon for our theme.
+
+#### Flapping Bird Mechanism Images
+
+<div display=inline-flex>
+<img src="./Assets/Images/backdrop-extension-1.jpg" width="400">
+<img src="./Assets/Images/backdrop2-extension-2.jpg" width="400">
+</div>
 
 ### May 3
 
+We worked on the background mechanism today. We had the background printed from our university library on a matte inkjet paper (those that are used to print posters on). Initially we decided to stick the background directly on the belts of the pulley mechanism. However, it was not a very good idea. At the turning points, the background always came off. Then we decided to use a cloth as it would give some flexibility while turning. Finally, we pasted the background on a long piece of cloth, then attached that cloth to the belt. It still came off from some places, but the mechanism worked fine enough when we tested it with the motor for quite some time.
+
+#### Background Mechanism Images and Video
+
+<div display=inline-flex>
+<img src="./Assets/Images/backdrop-extension-1.jpg" width="400">
+<img src="./Assets/Images/backdrop2-extension-2.jpg" width="400">
+</div>
+
 https://github.com/yashaswiim/machineLab_finalProject/assets/25387553/02e7bce3-d4d7-485a-ba4b-cc27060b3d95
 
-### May 7
+### May 4
 
+We reprinted the falcon and the prey mechanism since the last time we tested it, we found the previous version to be a bit smaller to hide a whole prey behind. This is how the mechanism looks now:
 
+<div display=inline-flex>
+<img src="./Assets/Images/backdrop-extension-1.jpg" width="400">
+</div>
+
+We also changed the body of the flapping falcon so that it looks more like a falcon than a seagull. We used one of the falcons we printed earlier for the diving mechanism to replace the body since we printed a larger falcon for the diving mechanism itself.
+
+<div display=inline-flex>
+<img src="./Assets/Images/backdrop-extension-1.jpg" width="400">
+</div>
+
+### May 7 
+
+We worked on attaching a motor for the flapping bird mechanism. We initially had planned to use a servo motor. However the speed of the servo motor was not satisfactory and convincing enough to make it look like the bird was flapping its wings. We needed a faster motor and therefore, decided to use a DC motor. Since DC motors give rotational movement and we cannot control its angle like we can for the servo motor, we had to use another slider mechanism to convert its rotational movement into up and down linear movement. To control its speed, we then used an H-bridge.
+
+We finally put together all three of our mechanisms, physically and in code, to see how they work together.
+
+### May 8
+
+We painted our falcons to make them look more real and also laser cut some desert mountains to add to our cube for aesthetic purposes.
+
+#### Painted Falcon Images
+
+<div display=inline-flex>
+<img src="./Assets/Images/backdrop-extension-1.jpg" width="400">
+<img src="./Assets/Images/backdrop2-extension-2.jpg" width="400">
+</div>
 
 ### May 10 
 
-### May 11 
+We worked on writing the code and assembling the project. Additionally, also worked on the finalizing the asthestics of the project. For the code, we needed to make sure that the mechanism started when it received the signal from the master clock and then sent a signal back once the mechanism was done. We also had figure out ways to delay some mechanisms without actually using the delay() function of arduino so that it wouldn't mess up with receiving and sending the signals.
 
-We worked on writing the code and assembling the project. Additionally, also worked on the asthestics of the project.  
+We also soldered protyping shields for arduino and connected wires for power, signal and ground.
 
+### May 11: Final Day 
 
-### May 12: Final Day 
+We did some last minute fixing to the aesthetics and the code.
+
+WE HAVE THE MECHANISM UP AND RUNNING. YAY!
 
 https://github.com/yashaswiim/machineLab_finalProject/assets/25387553/3025f90d-a511-491b-9160-2d93f0b844da
-
