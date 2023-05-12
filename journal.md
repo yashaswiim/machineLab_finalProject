@@ -124,6 +124,8 @@ We used 3D printing to make the falcon for our diving mechanism. Once we had the
 <img src="./Assets/Images/dive-prey-2.jpg" width="400">
 </div>
 
+https://github.com/yashaswiim/machineLab_finalProject/assets/57341178/3a1889e7-a904-4f80-8cdb-7bfa7273007c
+
 ### April 29
 
 Today we worked on measuring and cutting wood for our bases (the actual one as well as the false one). We decided to keep a sturdy base at the bottom of the cube and place all our mechanisms on top of it including the arduino, all the motors and the wires. We then decided to use a thinner piece of wood to cover these mechanisms and place it as the false base of the cube. We also decided to add decorations on top of this false base to make it look like the desert so that it goes well with our theme. Once we had our bases, we also finalized where we want each of our mechanisms to go within the cube. 
@@ -151,6 +153,7 @@ Along with the looks, we also tested if it would work as we had planned. We wrot
 <img src="./Assets/Images/dive-prey.jpg" width="400">
 </div>
 
+https://github.com/yashaswiim/machineLab_finalProject/assets/57341178/a4fe67a4-f10c-44e2-b49a-66028274bd22
 
 ### May 1
 
@@ -163,6 +166,8 @@ Today we worked on making the flapping falcon mechanism. We followed along a You
 <img src="./Assets/Images/flapping-bird-2.jpg" width="400">
 </div>
 
+https://github.com/yashaswiim/machineLab_finalProject/assets/57341178/4c03b590-8745-4ebf-980b-350506256f1b
+
 ### May 3
 
 We worked on the background mechanism today. We had the background printed from our university library on a matte inkjet paper (those that are used to print posters on). Initially we decided to stick the background directly on the belts of the pulley mechanism. However, it was not a very good idea. At the turning points, the background always came off. Then we decided to use a cloth as it would give some flexibility while turning. Finally, we pasted the background on a long piece of cloth, then attached that cloth to the belt. It still came off from some places, but the mechanism worked fine enough when we tested it with the motor for quite some time.
@@ -170,11 +175,13 @@ We worked on the background mechanism today. We had the background printed from 
 #### Background Mechanism Images and Video
 
 <div display=inline-flex>
-<img src="./Assets/Images/bachground.jpg" width="400">
+<img src="./Assets/Images/bachground.webp" width="400">
 <img src="./Assets/Images/background-cloth.jpg" width="400">
 </div>
 
 https://github.com/yashaswiim/machineLab_finalProject/assets/25387553/02e7bce3-d4d7-485a-ba4b-cc27060b3d95
+
+https://github.com/yashaswiim/machineLab_finalProject/assets/57341178/3820d16c-3b68-4e1e-bc2c-5fe346bafe96
 
 ### May 4
 
@@ -195,6 +202,8 @@ We also changed the body of the flapping falcon so that it looks more like a fal
 We worked on attaching a motor for the flapping bird mechanism. We initially had planned to use a servo motor. However the speed of the servo motor was not satisfactory and convincing enough to make it look like the bird was flapping its wings. We needed a faster motor and therefore, decided to use a DC motor. Since DC motors give rotational movement and we cannot control its angle like we can for the servo motor, we had to use another slider mechanism to convert its rotational movement into up and down linear movement. To control its speed, we then used an H-bridge.
 
 We finally put together all three of our mechanisms, physically and in code, to see how they work together.
+
+https://github.com/yashaswiim/machineLab_finalProject/assets/57341178/fb11eb23-2c34-4873-a68b-7fd5c6ba1126
 
 ### May 8
 
