@@ -203,8 +203,8 @@ We painted our falcons to make them look more real and also laser cut some deser
 #### Painted Falcon Images
 
 <div display=inline-flex>
-<img src="./Assets/Images/painted-falcon-1.jpg" width="400">
-<img src="./Assets/Images/painted-falcon-2.jpg" width="400">
+<img src="./Assets/Images/painted-falcon-1.jpeg" width="400">
+<img src="./Assets/Images/painted-falcon-2.jpeg" width="400">
 </div>
 
 ### May 10 
